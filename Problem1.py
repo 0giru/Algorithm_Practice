@@ -29,8 +29,9 @@ while True:
             result += num_vice
             M -= 1
 
-# print(result)
+print(result)
 
+#####################################################
 #두번째 방법
 Q = M // (K+1)
 S = M % (K+1)
