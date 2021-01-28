@@ -1,3 +1,4 @@
+#시계
 N = int(input())
 
 count = 0

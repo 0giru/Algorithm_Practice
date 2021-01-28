@@ -1,4 +1,4 @@
-# a1
+# 왕실의 나이트
 cur_pos = input()
 
 cur_row = ord(cur_pos[0])
